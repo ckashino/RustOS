@@ -1,5 +1,5 @@
 [package]
-name = "freeStandBinary"
+name = "RustOS"
 version = "0.1.0"
 authors = ["crashino <cjkashino@gmail.com>"]
 edition = "2018"
@@ -14,3 +14,4 @@ panic = "abort"
 
 [dependencies]
 bootloader = "0.9.8"
+volatile = "0.2.6"
