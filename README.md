@@ -10,5 +10,6 @@ The program can be ran using the .bin file with a x86_64 emulator (like qemu), o
 ## Todo
 
 - [x] Basic ground-work (printing, etc)
+- [ ] interrupts and used input
 - [ ] Add gifs of program to repo
 - [ ] Tic-tac-toe
